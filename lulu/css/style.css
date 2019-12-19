@@ -13,7 +13,7 @@
 				-moz-transform: rotateX(15deg);
 				transform: rotateX(15deg);
 				transform-style: preserve-3d;
-				animation: wrapper1 24s linear;
+				animation: wrapper1 12s linear infinite;
 			}
 			.min-box {
 				position: relative;
@@ -293,24 +293,13 @@
                         -moz-transform: rotateX(15deg);
 					    transform: rotateX(15deg);
 				}
-				25%{
-
-					    -webkit-transform: rotateX(105deg);
-                        -moz-transform: rotateX(105deg);
-					    transform: rotateX(105deg);
-				}
 				50%{
 
 					    -webkit-transform: rotateX(195deg);
                         -moz-transform: rotateX(195deg);
 					    transform: rotateX(195deg);
 				}
-				75%{
 
-					    -webkit-transform: rotateX(285deg);
-                        -moz-transform: rotateX(285deg);
-					    transform: rotateX(285deg);
-				}
 				100% {
 					    -webkit-transform: rotateX(15deg);
                         -moz-transform: rotateX(15deg);
