@@ -300,15 +300,15 @@
 				}
 				50%{
 
-					    -webkit-transform: rotateX(195deg);
-                        -moz-transform: rotateX(195deg);
-					    transform: rotateX(195deg);
+					    -webkit-transform: rotateX(-175deg);
+                        -moz-transform: rotateX(-175deg);
+					    transform: rotateX(-175deg);
 				}
 95%{
 
-					    -webkit-transform: rotateX(195deg);
-                        -moz-transform: rotateX(195deg);
-					    transform: rotateX(195deg);
+					    -webkit-transform: rotateX(-175deg);
+                        -moz-transform: rotateX(-175deg);
+					    transform: rotateX(-175deg);
 				}
 				100% {
 					    -webkit-transform: rotateX(15deg);
