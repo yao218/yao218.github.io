@@ -13,7 +13,7 @@
 				-moz-transform: rotateX(15deg);
 				transform: rotateX(15deg);
 				transform-style: preserve-3d;
-				animation: wrapper1 12s linear infinite;
+				animation: wrapper1 24s linear infinite;
 			}
 			.min-box {
 				position: relative;
